@@ -20,8 +20,9 @@ ASKSOME1</h1>
 [//]: # (Add the features of your project here:)
 This app uses the following features:
 
-- 💹 **Node Js** — A web framework for Node Js
-
+- 💹 **Node Js** 
+- 💹 **Express** 
+- 💹 **MySQL** 
 
 ## License
 
